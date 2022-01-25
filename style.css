@@ -1,0 +1,31 @@
+body {
+    background: #121212;
+    color: #eee;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+}
+
+nav * {
+    margin: 2%
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    color: #809fff;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+footer p {
+    text-align: center;
+}
